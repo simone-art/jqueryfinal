@@ -40,5 +40,5 @@ $(function (){
         if$(this).prop("checked")
         $(".entrada").hide();
     }else{
-        $(".entrada").show()
+        $(".entrada").show();
 })
