@@ -14,5 +14,8 @@ $(function(){
         
         
     })
+    (".Tenya").on("click", function(){
+        $(this).hide(Tenya);
+    })
 })
 
